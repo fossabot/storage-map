@@ -1,4 +1,6 @@
 # storage-map
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraozhanping%2Fstorage-map.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraozhanping%2Fstorage-map?ref=badge_shield)
+
   Use map structure to operate LocalStorage, SessionStorage, IndexDB and WebSQL.
 
 ## Usage
@@ -49,3 +51,7 @@ yarn run test -- --covarage
 # submit git log with conventional style
 yarn commit
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraozhanping%2Fstorage-map.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraozhanping%2Fstorage-map?ref=badge_large)
